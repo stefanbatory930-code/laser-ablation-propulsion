@@ -1,3 +1,29 @@
+# Calculations
+
+## Laser Parameters
+
+- Pulse energy: 10–100 mJ
+- Wavelength: 1064 nm
+- Pulse duration: 5–20 ns
+- Repetition rate: 1–10 Hz
+
+## PTFE Mass Loss
+
+- Target mass before test
+- Target mass after test
+- Mass loss per pulse
+
+## Thrust Calculation
+
+Measured thrust from the microbalance.
+
+## Specific Impulse
+
+Isp = Impulse / (Propellant mass × g₀)
+
+## Experimental Uncertainty
+
+Estimated measurement uncertainty for thrust, mass loss and Isp.
 Calculations
 
 Objective
