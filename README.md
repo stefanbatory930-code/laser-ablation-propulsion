@@ -1,4 +1,8 @@
+## Test Stand Concept
 
+![Test Stand](Screenshot_20260627.png)
+
+This figure shows the conceptual laboratory test stand for experimental validation of a nanosecond laser ablation propulsion system using a PTFE propellant under vacuum conditions.
 Laser Ablation Propulsion for CubeSats Using Nanosecond Laser Pulses
 
 Overview
